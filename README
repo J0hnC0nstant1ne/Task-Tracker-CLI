@@ -1,0 +1,2 @@
+Task Tracker CLI is a Python-based command-line tool designed to help users manage daily tasks directly from the terminal. 
+Built with object-oriented principles, it supports task prioritization, completion tracking, persistent storage in JSON, and an easy-to-extend structure suitable for junior Python developers.
